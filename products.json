@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "Name": "Cat Monster T-shirt",
+    "category_type": 1,
+    "category_name": "T-shirt",
+    "img": "https://ae01.alicdn.com/kf/HTB1XSOlQXXXXXbdXFXXq6xXFXXXv/Rampage-cat-t-shirt-lindo-gatito-causando-destrucci-n-gatos-animal-t-camisa-de-Las-Mujeres.jpg_Q90.jpg_.webp",
+    "Prices": 20,
+    "Promotion_description" : "En la compra de 2 te llevas 1 Gratis",
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "Name": "Kawai Cat Pens",
+    "category_type": 2,
+    "category_name": "Pen",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_653731-MLM45481140345_042021-O.webp",
+    "Prices": 5,
+    "Promotion_description" : "En compras mayores a 3 productos se te descontara el 25% por Unidad de este Producto",
+    "stock": 20
+  },
+
+  {
+    "id": 3,
+    "Name": "Black Cat Mug for Coffee and Tea",
+    "category_type": 3,
+    "category_name": "Mug",
+    "img": "https://m.media-amazon.com/images/I/61BtDFeFEPL._AC_SL1100_.jpg",
+    "Prices": 7.50,
+    "Promotion_description" : "",
+    "stock": 500
+  }
+]
